@@ -15,3 +15,4 @@ public class mobil { //ini adalah nama classnya
     }
 }
 
+//tujuan dari program ini untuk menunjukkan nama mobil
