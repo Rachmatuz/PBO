@@ -15,7 +15,7 @@ public class Mahasiswa { //ini adalah nama classnya
     }
 }
 
-
+//tujuan dari projek ini untuk menunjukkan nama mahasiswa
 
 
 
